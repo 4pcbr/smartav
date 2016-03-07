@@ -1,0 +1,8 @@
+%{"amnesia": {:hex, :amnesia, "0.2.1"},
+  "cowboy": {:hex, :cowboy, "1.0.4"},
+  "cowlib": {:hex, :cowlib, "1.0.2"},
+  "exprotobuf": {:hex, :exprotobuf, "1.0.0"},
+  "exquisite": {:hex, :exquisite, "0.1.6"},
+  "gpb": {:hex, :gpb, "3.18.10"},
+  "plug": {:hex, :plug, "1.1.2"},
+  "ranch": {:hex, :ranch, "1.2.1"}}

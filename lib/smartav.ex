@@ -1,0 +1,2 @@
+defmodule Smartav do
+end
